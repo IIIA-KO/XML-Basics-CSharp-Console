@@ -1,5 +1,5 @@
 # XML-Basics-CSharp-Console
- I tried to learn xml in C#, so I had to parse from website information about currencies and save it in XML
+ I tried to learn xml in C#, so I had to parse from website information about currencies and save it in XML. Another task said to make information saving about orders in XML
 Задание 1.
 С страницы http://finance.i.ua/ (сохранить файл как html
 страницу). Выполнить экспорт курса доллара по всем
